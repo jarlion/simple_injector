@@ -1,2 +1,2 @@
 # simple_injector
-A simple injector for dart
+Inject your dependencies easily and quickly. 
